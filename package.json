@@ -1,0 +1,10 @@
+{
+    "contributes": {
+        "commands": [
+            {
+                "command": "extension.openFolder",
+                "title": "Öffne einen bestimmten Ordner"
+            }
+        ]
+    }
+}
